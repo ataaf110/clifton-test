@@ -1,0 +1,32 @@
+{
+  "domains": {
+    "executing": {
+      "colors": {
+        "primary": "#7B2481",
+        "bg": "#F4E6F9",
+        "sep": "#C8A1DE"
+      }
+    },
+    "influencing": {
+      "colors": {
+        "primary": "#E97200",
+        "bg": "#FFF4E5",
+        "sep": "#F7C88A"
+      }
+    },
+    "relationship_building": {
+      "colors": {
+        "primary": "#0070CD",
+        "bg": "#E6F4FF",
+        "sep": "#7FBCEC"
+      }
+    },
+    "strategic_thinking": {
+      "colors": {
+        "primary": "#00945D",
+        "bg": "#E8FAF1",
+        "sep": "#70D1AA"
+      }
+    }
+  }
+}

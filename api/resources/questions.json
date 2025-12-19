@@ -1,0 +1,5748 @@
+[
+    [
+  {
+    "text": "می‌خواهم مورد ستایش بقیه باشم.",
+    "themes": [
+      { "theme": "significance", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "self_assurance", "weight": 1 }
+    ]
+  },
+  {
+    "text": "می‌خواهم همه از من خوششان بیاید.",
+    "themes": [
+      { "theme": "woo", "weight": 3 },
+      { "theme": "positivity", "weight": 2 },
+      { "theme": "harmony", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "از وقت گذراندن با افراد گذشته‌نگر لذت می‌برم.",
+    "themes": [
+      { "theme": "context", "weight": 3 },
+      { "theme": "input", "weight": 2 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  },
+  {
+    "text": "از وقت گذراندن با افراد آینده‌نگر لذت می‌برم.",
+    "themes": [
+      { "theme": "futuristic", "weight": 3 },
+      { "theme": "ideation", "weight": 2 },
+      { "theme": "strategic", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "من از فرایند بازی کردن لذت می‌برم.",
+    "themes": [
+      { "theme": "learner", "weight": 3 },
+      { "theme": "positivity", "weight": 2 },
+      { "theme": "input", "weight": 2 }
+    ]
+  },
+  {
+    "text": "من برای کسب مقام اول تلاش می‌کنم.",
+    "themes": [
+      { "theme": "competition", "weight": 3 },
+      { "theme": "achiever", "weight": 2 },
+      { "theme": "significance", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "من عملکردی آهسته ولی پیوسته دارم.",
+    "themes": [
+      { "theme": "discipline", "weight": 3 },
+      { "theme": "deliberative", "weight": 3 },
+      { "theme": "focus", "weight": 2 }
+    ]
+  },
+  {
+    "text": "من همیشه سخت کار کرده ام.",
+    "themes": [
+      { "theme": "achiever", "weight": 3 },
+      { "theme": "responsibility", "weight": 2 },
+      { "theme": "belief", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "به این فکر می‌کنم که چه چیزهایی را باید بهبود بدهم.",
+    "themes": [
+      { "theme": "restorative", "weight": 3 },
+      { "theme": "developer", "weight": 2 },
+      { "theme": "analytical", "weight": 2 }
+    ]
+  },
+  {
+    "text": "به این فکر می‌کنم که چه کارهایی را می‌توانم به خوبی انجام دهم.",
+    "themes": [
+      { "theme": "maximizer", "weight": 3 },
+      { "theme": "self_assurance", "weight": 2 },
+      { "theme": "individualization", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "من شخصی منطقی هستم.",
+    "themes": [
+      { "theme": "analytical", "weight": 3 },
+      { "theme": "deliberative", "weight": 2 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  },
+  {
+    "text": "من شخص حساسی هستم.",
+    "themes": [
+      { "theme": "empathy", "weight": 3 },
+      { "theme": "relator", "weight": 2 },
+      { "theme": "developer", "weight": 1 }
+    ]
+  }
+],
+[
+  {
+    "text": "من پذیرای انواع مختلفی از افراد هستم.",
+    "themes": [
+      { "theme": "includer", "weight": 3 },
+      { "theme": "harmony", "weight": 2 },
+      { "theme": "empathy", "weight": 2 }
+    ]
+  },
+  {
+    "text": "قادرم افراد را به صورت فردی‌تر و عمیق‌تر بشناسم.",
+    "themes": [
+      { "theme": "individualization", "weight": 3 },
+      { "theme": "relator", "weight": 3 },
+      { "theme": "empathy", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "برقراری گفتگو با یک غریبه برایم هیجان‌انگیز است.",
+    "themes": [
+      { "theme": "woo", "weight": 3 },
+      { "theme": "activator", "weight": 2 },
+      { "theme": "communication", "weight": 2 }
+    ]
+  },
+  {
+    "text": "آغاز کردن گفتگو برایم دشوار است.",
+    "themes": [
+      { "theme": "deliberative", "weight": 3 },
+      { "theme": "activator", "weight": 3 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "احساس می‌کنم فردی کارآمد هستم.",
+    "themes": [
+      { "theme": "achiever", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "self_assurance", "weight": 2 }
+    ]
+  },
+  {
+    "text": "نسبت به زندگی احساس بسیار خوبی دارم.",
+    "themes": [
+      { "theme": "positivity", "weight": 3 },
+      { "theme": "belief", "weight": 2 },
+      { "theme": "futuristic", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "اغلب دستاوردهایم فردی است.",
+    "themes": [
+      { "theme": "self_assurance", "weight": 3 },
+      { "theme": "achiever", "weight": 2 },
+      { "theme": "significance", "weight": 2 }
+    ]
+  },
+  {
+    "text": "عضوی از یک تیم بودن را دوست دارم.",
+    "themes": [
+      { "theme": "includer", "weight": 3 },
+      { "theme": "relator", "weight": 3 },
+      { "theme": "harmony", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌توانم احساس موفقیت را در دیگران ایجاد کنم.",
+    "themes": [
+      { "theme": "developer", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "positivity", "weight": 1 }
+    ]
+  },
+  {
+    "text": "می توانم به افراد این حس را بدهم که برایم مهم هستند.",
+    "themes": [
+      { "theme": "includer", "weight": 3 },
+      { "theme": "relator", "weight": 2 },
+      { "theme": "individualization", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "همت و اراده‌ام زندگی‌ام را هدایت می‌کند.",
+    "themes": [
+      { "theme": "achiever", "weight": 3 },
+      { "theme": "self_assurance", "weight": 3 },
+      { "theme": "focus", "weight": 2 }
+    ]
+  },
+  {
+    "text": "نگرش من به بشریت، زندگی‌ام را هدایت می‌کند.",
+    "themes": [
+      { "theme": "belief", "weight": 3 },
+      { "theme": "connectedness", "weight": 3 },
+      { "theme": "responsibility", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌خواهم رهبر دیگران باشم.",
+    "themes": [
+      { "theme": "command", "weight": 3 },
+      { "theme": "significance", "weight": 3 },
+      { "theme": "self_assurance", "weight": 2 }
+    ]
+  },
+  {
+    "text": "بودن در نقش یک مشاور مطمئن برای دیگران برایم رضایت‌بخش است.",
+    "themes": [
+      { "theme": "relator", "weight": 3 },
+      { "theme": "developer", "weight": 3 },
+      { "theme": "responsibility", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم از زوایای مختلف به موضوعات نگاه کنم.",
+    "themes": [
+      { "theme": "ideation", "weight": 3 },
+      { "theme": "strategic", "weight": 2 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  },
+  {
+    "text": "دوست دارم که کارها را براساس ترتیب مد نظرم انجام دهم.",
+    "themes": [
+      { "theme": "discipline", "weight": 3 },
+      { "theme": "arranger", "weight": 3 },
+      { "theme": "focus", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "به ارزش‌هایم متعهدم.",
+    "themes": [
+      { "theme": "belief", "weight": 3 },
+      { "theme": "responsibility", "weight": 2 }
+    ]
+  },
+  {
+    "text": "به رشد و توسعه خود متعهدم.",
+    "themes": [
+      { "theme": "learner", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "input", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌خواهم بهترین‌ها را برای خانواده‌ام داشته باشم.",
+    "themes": [
+      { "theme": "belief", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "responsibility", "weight": 2 }
+    ]
+  },
+  {
+    "text": "می‌خواهم در زندگی‌ام تعادل داشته باشم.",
+    "themes": [
+      { "theme": "consistency", "weight": 3 },
+      { "theme": "harmony", "weight": 3 },
+      { "theme": "discipline", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "زمان‌هایی را برای برنامه‌ریزی و فکر کردن به آینده در نظر می‌گیرم.",
+    "themes": [
+      { "theme": "futuristic", "weight": 3 },
+      { "theme": "strategic", "weight": 3 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  },
+  {
+    "text": "هر روز، بارها درباره دیدگاه‌هایم برای آینده صحبت می‌کنم.",
+    "themes": [
+      { "theme": "communication", "weight": 3 },
+      { "theme": "futuristic", "weight": 3 },
+      { "theme": "positivity", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌توانم دیگران را آرام کنم.",
+    "themes": [
+      { "theme": "empathy", "weight": 3 },
+      { "theme": "harmony", "weight": 3 },
+      { "theme": "connectedness", "weight": 2 }
+    ]
+  },
+  {
+    "text": "می‌توانم دیگران را هیجان‌زده کنم.",
+    "themes": [
+      { "theme": "positivity", "weight": 3 },
+      { "theme": "communication", "weight": 2 },
+      { "theme": "futuristic", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "قبل از اقدام، نیاز دارم اطمینان حاصل کنم که تصمیمم درست است.",
+    "themes": [
+      { "theme": "deliberative", "weight": 3 },
+      { "theme": "analytical", "weight": 2 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  },
+  {
+    "text": "پس از تصمیم‌گیری، باید اقدام کنم.",
+    "themes": [
+      { "theme": "activator", "weight": 3 },
+      { "theme": "focus", "weight": 2 },
+      { "theme": "achiever", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "من با جریان زندگی پیش می‌روم و دید کلی نسبت به مسائل را حفظ می‌کنم.",
+    "themes": [
+      { "theme": "adaptability", "weight": 3 },
+      { "theme": "connectedness", "weight": 3 },
+      { "theme": "harmony", "weight": 2 }
+    ]
+  },
+  {
+    "text": "نسبت به بیشتر افراد، بهتر بر روی آنچه می‌خواهم انجام دهم، تمرکز می‌کنم.",
+    "themes": [
+      { "theme": "focus", "weight": 3 },
+      { "theme": "discipline", "weight": 2 },
+      { "theme": "achiever", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "«رویدادها» را بیشتر حاصل شانس، اقبال و یا حادثه می دانم.",
+    "themes": [
+      { "theme": "adaptability", "weight": 3 },
+      { "theme": "activator", "weight": 2 }
+    ]
+  },
+  {
+    "text": "باور دارم هیچ اتفاقی بی‌دلیل نیست، هر رویدادی دلیلی دارد.",
+    "themes": [
+      { "theme": "connectedness", "weight": 3 },
+      { "theme": "belief", "weight": 2 },
+      { "theme": "intellection", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "به خوبی به دیگران گوش می‌دهم.",
+    "themes": [
+      { "theme": "empathy", "weight": 3 },
+      { "theme": "input", "weight": 3 },
+      { "theme": "relator", "weight": 2 }
+    ]
+  },
+  {
+    "text": "می توانم یک مکالمه را به خوبی پیش ببرم.",
+    "themes": [
+      { "theme": "communication", "weight": 3 },
+      { "theme": "woo", "weight": 3 },
+      { "theme": "command", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "از اینکه مورد قدردانی قرار بگیرم، لذت می‌برم.",
+    "themes": [
+      { "theme": "significance", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "self_assurance", "weight": 1 }
+    ]
+  },
+  {
+    "text": "از قدردانی کردن از بقیه لذت می‌برم.",
+    "themes": [
+      { "theme": "developer", "weight": 3 },
+      { "theme": "positivity", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "کار کردن را دوست دارم.",
+    "themes": [
+      { "theme": "achiever", "weight": 3 },
+      { "theme": "responsibility", "weight": 2 },
+      { "theme": "focus", "weight": 2 }
+    ]
+  },
+  {
+    "text": "از رقابت کردن خوشم می‌آید.",
+    "themes": [
+      { "theme": "competition", "weight": 3 },
+      { "theme": "maximizer", "weight": 2 },
+      { "theme": "significance", "weight": 2 }
+    ]
+  }
+],
+[
+  {
+    "text": "من متفکری خلاق و راهبردی هستم و الگوها و مسائل به طور طبیعی برایم آشکار می‌شوند.",
+    "themes": [
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "تفکری واقع‌گرا دارم و سعی می‌کنم از نظر کارشناسان استفاده کنم تا پاسخ‌های درست را پیدا کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از تمامی عوامل تاثیرگذار بر شرایط آگاهم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "من کاملا زنده‌ام، پر از شادی و لذت.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "من به خوبی بین افراد ارتباط برقرار می‌کنم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌خواهم مدیرعامل یک سازمان بزرگ باشم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "رهبران معروف باعث تشویش و اضطراب من می‌شوند.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "گاهی باعث ترس و اضطراب بقیه می‌شوم.",
+    "themes": [
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "توانایی دوست داشتن همه افراد را دارم.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم خودم را جای دیگری بگذارم و درک کنم که بر آنها چه می‌گذرد.",
+    "themes": [
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "من دیگران را خوشحال می‌کنم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "من دیگران را برای موفقیت تشویق می‌کنم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ازاغلب دوستان و نزدیکانم پخته تر هستم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "اصولاً فرد انعطاف پذیر و آسان گیری هستم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 3
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم امکاناتی را برای دیگران فراهم کنم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم تا جای ممکن با دیگران کارکنم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "معتقدم آینده‌ام مستقل از گذشته‌ام خواهد بود.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "معتقدم با مطالعه تاریخ می‌توانم آینده را پیش‌بینی کنم.",
+    "themes": [
+      {
+        "theme": "context",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فردی واقع‌بین و عمل‌گرا هستم.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "من خود را قطره‌ای از دریای بی‌کران هستی می‌بینم.",
+    "themes": [
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "کار را فقط راهی برای کسب درآمد می‌دانم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      },
+      {
+        "theme": "achiever",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم کار کردن برایم یک سبک زندگی باشد.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی کاری را انجام می‌دهم که فکر می‌کنم درست نیست، احساس گناه می‌کنم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی کسی مرا دوست ندارد، احساس ناراحتی می‌کنم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تحلیل می‌کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "سازماندهی می‌کنم.",
+    "themes": [
+      {
+        "theme": "arranger",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به افراد گوش می‌دهم تا احساس درک شدن کنند.",
+    "themes": [
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم با برجسته کردن نکات مهم در گفته‌های افراد، حال آنها را خوب کنم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم با افراد سخت‌کوش و موفق ارتباط داشته باشم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به دنبال افراد فلسفی می‌گردم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از اینکه دیگران احساس موفقیت کنند، لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از اینکه به دیگران حس ارزشمند بودن بدهم لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از اطلاعات دقیق و کاملاً تحقیق شده استفاده می‌کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برای حل مشکلات از غریزه‌ام استفاده می‌کنم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      },
+      {
+        "theme": "activator",
+        "weight": 1
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "باور دارم با تمام بشریت ارتباط دارم.",
+    "themes": [
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "تردیدی منطقی نسبت به زندگی دارم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوستانم اغلب از من مشاوره می‌خواهند.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوستانم اغلب از من می‌خواهند خاطره یا داستان تعریف کنم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی دیگران نادیده گرفته می‌شوند، احساس بدی دارم.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "ترجیح می‌دهم در میان افرادی مانند خودم باشم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      },
+      {
+        "theme": "context",
+        "weight": 1
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "استقامت بالایی دارم و همیشه به بیشتر و سخت‌تر کار کردن نسبت به بقیه شناخته شده‌ام.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم با اکثر افراد به جای رقابت هم‌رکاب شوم، در نتیجه مجبور به کار سخت‌تر یا طولانی‌تر نیستم.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "هر چیزی که به فکر درباره بشریت مربوط باشد توجه مرا جلب می‌کند.",
+    "themes": [
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هر چیزی که به رقابت مربوط باشد توجه مرا جلب می‌کند.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "بسیار لجباز هستم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فرد بسیار مرتبی هستم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی یاد می‌گیرم رشد می‌کنم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی به اشتراک می‌گذارم رشد می‌کنم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "آینده‌ام را روز به روز کشف می‌کنم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      },
+      {
+        "theme": "learner",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "طبق یک برنامه مشخص برای آینده‌ام پیش می‌روم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تصور می‌کنم چگونه به اتفاقات آینده واکنش نشان خواهم داد.",
+    "themes": [
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      },
+      {
+        "theme": "futuristic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "روی آنچه می‌توانم در آینده به دست آورم تمرکز می‌کنم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی اهداف افراد را بدانم، بهتر می‌توانم با آنها ارتباط برقرار کنم.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      },
+      {
+        "theme": "developer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی ضعف افراد را پیدا می‌کنم بهتر با آنها ارتباط برقرار می‌کنم.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوستانم را با دقت انتخاب می‌کنم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "همه‌ی افراد را در نظر می‌گیرم تا به احساسات کسی لطمه وارد نشود.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برایم بسیار مهم است که به عنوان فردی معتبر، حرفه‌ای و موفق شناخته شوم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "نیاز چندانی به شناخته شدن به عنوان یک فرد معتبر، حرفه‌ای و موفق ندارم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از درک ترکیب جمعیت جهان در پنجاه سال آینده لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از درک علل جنگ‌های جهانی لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "context",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "نسبت به مسائل تاثیرگذار بر زندگی‌ام شور و اشتیاق دارم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در مورد مسائلی که در زندگی با آنها مواجهم دیدگاهی تحلیلی دارم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "با غلبه بر نقاط ضعفم پیشرفت می‌کنم.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "learner",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "با بهره‌گیری از استعدادهایم پیشرفت می‌کنم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ترجیح می‌دهم با جریان زندگی پیش بروم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برای من همه چیز باید برنامه‌ریزی شده باشد.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای انجام کارها روش‌های معمول را انتخاب می‌کنم.",
+    "themes": [
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "روش‌های مختلفی برای انجام کارها پیدا می‌کنم.",
+    "themes": [
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اشک بخشی از زندگی من است.",
+    "themes": [
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از گریه کردنم متنفرم.",
+    "themes": [
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از تمیز کردن لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      },
+      {
+        "theme": "restorative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از ریلکس کردن و آرامش داشتن لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "خوشبختی به پول مربوط نیست.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "خوشبختی، پول است.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دیگران به من مراجعه می‌کنند تا نظرم را جویا شوند.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "نظرات دیگران را جویا می‌شوم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به کشف ویژگی‌های منحصر به فرد افراد و انگیزه بخشی به آنها به صورت فردی اعتقاد دارم.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "معتقدم که بسیار ضروری است با همه‌ی افراد برخورد یکسانی شود و قوانین روشنی برای پیروی افراد وجود داشته باشد.",
+    "themes": [
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "پاسخ‌ها و مسائل به طور طبیعی برایم آشکار می‌شوند.",
+    "themes": [
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "بر اطلاعات و آگاهی کارشناسان تکیه می‌کنم تا کمک کنند پاسخ‌های درست را پیدا کنم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در تعریف و تمجید از دیگران انتخابی عمل می‌کنم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در تعریف و تمجید از دیگران بسیار سخاوتمند هستم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "developer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از بودن در بین گروه برتر در مسابقات خوشحال می‌شوم.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "تا زمانی که در رقابت‌ها شماره یک نباشم، هیچ‌گاه کاملاً احساس رضایت نمی‌کنم.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "استعداد خاصی در برخورد یکسان با افراد مختلف دارم.",
+    "themes": [
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در درک اینکه افرادی که با یکدیگر بسیار متفاوت هستند، چگونه می‌توانند با هم خوب کار کنند، مهارت دارم.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به دنبال تجربه‌های هیجان‌انگیز و ماجراجویانه هستم.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "سعی می‌کنم در منطقه‌ی امن و راحت خود بمانم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از بحث در مورد ایده‌های بزرگ با اطرافیانم لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم احساسات اطرافیانم را حس کنم.",
+    "themes": [
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "افرادی هستند که دوستشان ندارم، زیرا با من سازگار نیستند.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "مهم این است که افراد چه ویژگی‌هایی دارند، نه اینکه آیا دوستشان دارم یا نه.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای تصمیم‌گیری‌های مهم از عقل استفاده می‌کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برای تصمیمات مهم به قلبم اعتماد می‌کنم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اولویت‌ موضوعات را تعیین می‌کنم و سپس برای انجام آنها اقدام می‌کنم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به موضوعات در زمانی که رخ می‌دهند، واکنش نشان می‌دهم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌خواهم همه از من خوششان بیاید.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "همه‌ی افراد را دوست دارم.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وظایفم مرا به پیش می‌برند.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "اهدافم به من انگیزه می‌دهند و مرا به پیش می‌برند.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "کار من توسط نیازهای روزانه تعیین می‌شود.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هر هفته اهداف عملکردی تعیین می‌کنم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای آینده زندگی می‌کنم.",
+    "themes": [
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم توجهم به زمان حال باشد و به موضوعات حال حاضر رسیدگی کنم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌توانم روی چیزهایی که به آنها علاقه دارم تمرکز کنم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "مجبورم خودم را به مطالعه وادارم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ترجیح می‌دهم با بزرگسالان سر و کار داشته باشم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هر چیزی را که به بچه‌های کوچک مربوط می‌شود، دوست دارم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ترجیح می‌دهم به عنوان عضوی از تیم کار کنم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از کاری که نیازمند دقت است، لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فردی درون‌نگر هستم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      },
+      {
+        "theme": "deliberative",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "در مورد ارزش‌ها و انگیزه‌های دیگران، مطالعه می‌کنم.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فرد پرشوری هستم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از الگوها و نظم ثابتی پیروی می‌کنم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "نسبت به ریشه‌کن کردن خشونت شور و اشتیاق دارم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "نسبت به تحصیل شور و اشتیاق دارم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم بشنوم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم شنیده شوم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "مربی خوبی هستم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "توانایی خوبی برای خاطره‌گویی و داستان‌گویی دارم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "نگران آینده‌ام هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از پیشرفتم در زندگی راضی هستم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم فکر کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم صحبت کنم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "کسی هستم که کارها را انجام می‌دهد.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فرد کمال‌گرایی هستم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "restorative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "متفکری خلاق و راهبردی هستم.",
+    "themes": [
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "متفکری واقع‌بین و عمل‌گرا هستم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ترجیح می‌دهم با افرادی در ارتباط باشم که نقاط قوتم را تحسین کنند.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به دنبال افرادی هستم که صادقانه در مورد نقاط ضعفم با من صحبت کنند.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "نیاز دارم که برای دیگران فداکاری کنم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "معتقدم ابتدا باید از خودم مراقبت کنم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "کار کردن زیاد با دوستانم را دوست دارم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "بسیار اجتماعی هستم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برایم سخت است که در مورد خودم صحبت کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هنگام حرف زدن، هیچ‌گاه دچار کمبود کلمه نمی‌شوم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فردی جدی هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فرد بی‌دغدغه‌ای هستم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای بیرون رفتن و شرکت در فعالیت‌های اجتماعی زندگی می‌کنم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "عاشق مطالعه هستم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "هرچقدر لازم باشد چک می‌کنم تا مطمئن شوم همه چیز طبق روال است.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "غالبا فراموشکارم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "ideation",
+        "weight": 1
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "با همه افراد یکسان رفتار می‌کنم.",
+    "themes": [
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "تفاوت‌های بین افراد را به دقت در نظر می‌گیرم.",
+    "themes": [
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "با استفاده از استعدادهایم به موفقیت می‌رسم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "غلبه بر ضعف‌ها و رفع نواقص، روش من برای موفقیت است.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی شرایط سخت می‌شود و نیاز به انجام کاری بی‌نقص دارم، تمایل دارم به نقاط قوت افراد تیم تکیه کنم و سعی نمی‌کنم همه‌ی کارها را خودم انجام دهم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی شرایط سخت می‌شود و نیاز به انجام کاری بی‌نقص دارم، معمولا خودم را وادار به انجام آن می‌کنم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی نیاز باشد، می‌توانم اجتماعی باشم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "من فردی اجتماعی هستم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم چند دوستی عمیق داشته باشم که برایم بسیار مهم هستند.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم تا جای ممکن دوستان زیادی داشته باشم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "هیچ‌گاه نمی‌توان دروغ گفتن را توجیه کرد.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "گاهی اوقات می‌توان حقیقت را کمی تغییر داد.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "همیشه در حال برقراری دوستی‌های جدید هستم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "ترجیح می‌دهم تعداد کمی دوست داشته باشم که در موردشان زیاد بدانم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "مرا به اینکه فرد شوخ‌طبعی هستم، می‌شناسند.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "مرا به اینکه فرد تمیزی و مرتبی هستم، می‌شناسند.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "مطالعه می‌کنم که ببینم آینده چه چیزی برایم دارد.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دارم آینده‌ام را می‌سازم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم مردم را تشویق کنم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم مردم را به چالش بکشم.",
+    "themes": [
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "زندگی‌ام مانند کتابی باز است.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فردی درون‌گرا و محافظه‌کار هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "من فردی اقتصادی و صرفه‌جو هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "text": "من فردی بخشنده و دست و دلباز هستم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      },
+      {
+        "theme": "developer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به دنبال دستاوردهای بلندپروازانه هستم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "یک رهبر هستم.",
+    "themes": [
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وجدان کاری دارم.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "گاهی اوقات تملق دیگران را می‌گویم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "توجه و تمرکز پایینی دارم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم به مدت لازم مطالعه کنم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در تعریف و تمجید ازدیگران، سخاوتمند هستم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "مراقبم که بیش از حد تعریف و تمجید نکنم، پس وقتی این کار را می‌کنم، واقعاً معنی‌دار است.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ارزش‌های من پایدار هستند.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "آماده‌ی یادگیری چیزهای جدید هستم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "زندگی‌ام بسیار لذت‌بخش است.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برای زندگی‌ام هدف دارم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از کنفرانس‌های تعیین اهداف لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از بحث‌های فلسفی لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دلتنگ دوستانم می‌شوم.",
+    "themes": [
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم تنها باشم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دلایل شرایط فعلی را درک می‌کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "context",
+        "weight": 3
+      },
+      {
+        "theme": "restorative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "اغلب آینده‌ام را تصور می‌کنم.",
+    "themes": [
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای صادق بودن با خودم تلاش می‌کنم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به آسانی پذیرای حقایق در مورد خودم هستم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در صحبت کردن درباره زندگی خصوصی‌ام بسیار محتاط هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از صحبت کردن درباره خودم نمی‌ترسم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در کودکی، از سازگاری مناسبی برخوردار بودم و مشکل خاصی با همسالان یا بزرگسالان نداشتم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در کودکی، تا حد زیادی پرخاشگر و مستقل بودم.",
+    "themes": [
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم به رویدادهای ورزشی بروم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم دیگران را سرگرم کنم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اغلب از احساس پوچی دوری می‌کنم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از کنترل شدن متنفرم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "با افراد ناصادق ارتباط برقرار نمی‌کنم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از افراد آشفته و به هم ریخته دوری می‌کنم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "بدون توجه به شرایط، همیشه به طور طبیعی می‌دانم چه کارهایی درست هستند.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در شرایط دشوار، تمایل دارم راهنمایی افرادی را که چیزهای درست را می‌دانند، جویا شوم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوره‌های چالشی را انتخاب می‌کنم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوره‌های آسان را انتخاب می‌کنم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 2
+      },
+      {
+        "theme": "harmony",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "مسئولیت‌پذیری مرا به پیش می‌برد.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از ددلاین‌ها و مهلت انجام کارها خوشم نمی‌آید.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "افراد را قوی‌تر می‌کنم.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "افراد را تشویق می‌کنم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "بیش از حد اهداف بلندپروازانه و میل به پیشرفت دارم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "بیش از حد به دیگران اعتماد دارم.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "آنچه در آینده می‌توان به دست آورد، برایم الهام بخش است.",
+    "themes": [
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "آنچه در گذشته رخ داده، برایم الهام بخش است.",
+    "themes": [
+      {
+        "theme": "context",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فکر کردنم زمانی واضح‌تر است که کارها را پیش از موعد انجام دهم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فشار آخرین لحظه (قبل از ددلاین) ذهنم را متمرکز می‌کند.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "باور دارم افرادی که دزدی می‌کنند باید مجازات شوند.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "consistency",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فکر می‌کنم اکثر افراد اگر موقعیتش پیش بیاید، دزدی می‌کنند.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "restorative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "پذیرفته شدن، بزرگ‌ترین نیاز من است.",
+    "themes": [
+      {
+        "theme": "includer",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "عمیق‌ترین آرزوی من این است که نسبت به کارم هیجان‌زده باشم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "من فردی مسئولیت‌پذیر هستم.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 2
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "من فردی منطقی هستم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تلاش می‌کنم با مطالعه گذشته، تا جایی که ممکن است یاد بگیرم.",
+    "themes": [
+      {
+        "theme": "context",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "بیشتر افکار و انرژی روانی‌ام مربوط به اینجا و حالاست.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به دنبال ایجاد تغییر در جهان هستم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "futuristic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی بهترین عملکرد خودم را نمایش می‌دهم احساس رضایت می‌کنم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "نیاز دارم شناخته و درک شوم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "تمایل شدیدی به یادگیری دارم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "چیزها را همان‌طور که پیش می‌آیند، می‌پذیرم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "زیاد درباره روابط علت و معلول فکر می‌کنم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از موفقیت‌های حال حاضرم لذت می‌برم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به دنبال درک علت شکست‌هایم هستم.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از زندگی\u200cام راضی هستم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "یک عامل نارضایتی در زندگی\u200cام وجود دارد.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "برای ارتقا و ترفیع تلاش می‌کنم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به دنبال مسئولیت پذیری هستم.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فرد ریسک پذیری هستم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "با مردم موافق هستم.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      },
+      {
+        "theme": "empathy",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "۷۰٪ از وقتم را به فکر کردن درباره آینده می‌گذرانم.",
+    "themes": [
+      {
+        "theme": "futuristic",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "۲۵ درصد از وقتم را به فکر کردن درباره‌ی آینده می‌گذرانم.",
+    "themes": [
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      },
+      {
+        "theme": "context",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "قادرم بین افرادی که با هم کار می‌کنند، هماهنگی ایجاد کنم.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      },
+      {
+        "theme": "arranger",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "الهام بخش دوستانم برای به ثمر رساندن وقایع هستم.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تلاش می‌کنم فقط به چیزهای درست توجه داشته باشم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "زمانی که لازم باشد، شکایت می‌کنم.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "وقتی کارهایی که در شب‌ها و آخر هفته‌ها انجام می‌دهم در نظر بگیرم، علاوه بر روزهای عادی، هفته کاری معمول من بیش از ۶۰ ساعت است.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی کارهایی را که در شب‌ها و آخر هفته‌ها انجام می‌دهم در نظر بگیرم، علاوه بر روزهای عادی، هفته کاری معمول من ۴۰-۵۰ ساعت است.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "achiever",
+        "weight": 1
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فردی جدی هستم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فرد خوش‌قلبی هستم.",
+    "themes": [
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "مشکل من تکمیل پروژه‌ها است.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "شروع کردن کارهای جدید برایم آسان است.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 2
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوستانم را با دقت انتخاب می‌کنم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم با هر کسی کنار بیایم.",
+    "themes": [
+      {
+        "theme": "harmony",
+        "weight": 3
+      },
+      {
+        "theme": "adaptability",
+        "weight": 2
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "فردی منطقی و مقاوم هستم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به راحتی گریه می‌کنم.",
+    "themes": [
+      {
+        "theme": "empathy",
+        "weight": 3
+      },
+      {
+        "theme": "developer",
+        "weight": 2
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "می‌خواهم رویدادهای زندگی‌ام را کنترل کنم.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "نظاره‌گر زندگی هستم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      },
+      {
+        "theme": "context",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "حداکثر زمانی که می‌توانم روی کار یا مطالعه تمرکز کنم، یک ساعت است.",
+    "themes": [
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی نیاز باشد، می‌توانم ساعت‌ها روی کارم تمرکز کنم، مثلاً تمام شب.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "به طور مداوم نتایج مثبتی ارائه می‌دهم.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "به دنبال دستاوردهای برجسته‌ای هستم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در مقابل بسیاری از افراد دچار ترس یا اضطراب می‌شوم.",
+    "themes": [
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "relator",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "می‌توانم با هوشمندی بر دیگران غلبه کنم.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "روش من این است که در هر زمان تنها بر یک موضوع تمرکز داشته باشم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      },
+      {
+        "theme": "deliberative",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "وقتی مشغول چند وظیفه به طور همزمان هستم، در بهترین حالت خودم هستم.",
+    "themes": [
+      {
+        "theme": "arranger",
+        "weight": 3
+      },
+      {
+        "theme": "adaptability",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اینکه آیا معلمی دوستم داشته است یا نه، اهمیتی ند ارد.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "معلم یا مربی‌ای داشته‌ام که واقعاً نسبت به من به عنوان یک شخص اهمیت می‌داده است.",
+    "themes": [
+      {
+        "theme": "developer",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "توانایی پیگیری خوبی دارم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "بنیان‌گذار یا آغازگر خوبی هستم.",
+    "themes": [
+      {
+        "theme": "activator",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "در فکر کردن و خلق پروژه‌های جدید مهارت دارم.",
+    "themes": [
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "activator",
+        "weight": 2
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "در جذب مردم برای یک پروژه مهارت دارم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اکثراً درباره زیبایی‌هایی که دیده‌ام، تأمل می‌کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "اعداد زیادی در ذهنم هستند.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 1
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ترجیح می‌دهم درباره رقابت های ورزشی صحبت کنم.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      },
+      {
+        "theme": "significance",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "بحث‌های فکری را ترجیح می‌دهم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دایره واژگان من شامل کلمات کاربردی است.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "کلماتی که به کار می‌برم، ذهن را به چالش می‌کشند.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تمایل دارم از کلمات انتزاعی و پیچیده استفاده کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "معمولاً از کلمات کوتاه و ساده استفاده می‌کنم.",
+    "themes": [
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "بسیاری اوقات برای توصیف ایده‌هایم کلمات را گم می‌کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برایم آسان است که افکارم را به کلمات تبدیل کنم.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم بفهمم چیزها چگونه کار می‌کنند.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "عاشق خواندن هستم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از گروه‌های بحث و تبادل نظر خوشم می‌آید.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "از سخنرانی‌ها خوشم می‌آید.",
+    "themes": [
+      {
+        "theme": "communication",
+        "weight": 3
+      },
+      {
+        "theme": "woo",
+        "weight": 2
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "از کشف الگو در داده‌ها هیجان می‌گیرم.",
+    "themes": [
+      {
+        "theme": "analytical",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 2
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "دوست دارم مطالعه کنم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تمایل شدیدی به ثروتمند شدن دارم.",
+    "themes": [
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "maximizer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "تمایل شدیدی به دانستن بیشتر دارم.",
+    "themes": [
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "اهل پیگیری هستم و آنچه گفته‌ام را انجام می‌دهم.",
+    "themes": [
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "همیشه کارها و وظایفم را در مهلت تعیین شده به انجام می‌رسانم.",
+    "themes": [
+      {
+        "theme": "discipline",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "تکمیل وظایفی که از من انتظار می‌رود، روزم را می‌سازد.",
+    "themes": [
+      {
+        "theme": "achiever",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "focus",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "یک ایده جدید روزم را می‌سازد.",
+    "themes": [
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "learner",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "هر وقت در گروهی هستم، به نظر می‌رسد بیشترین آمادگی را برای انجام کارها دارم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "responsibility",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هر وقت در گروهی هستم، به نظر می‌رسد ایده‌های بیشتری نسبت به دیگران دارم.",
+    "themes": [
+      {
+        "theme": "ideation",
+        "weight": 3
+      },
+      {
+        "theme": "competition",
+        "weight": 2
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "استعدادی در ساده‌سازی پیچیدگی‌ها دارم.",
+    "themes": [
+      {
+        "theme": "arranger",
+        "weight": 3
+      },
+      {
+        "theme": "strategic",
+        "weight": 3
+      },
+      {
+        "theme": "analytical",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "هرگز از جذب اطلاعات متوقف نمی‌شوم.",
+    "themes": [
+      {
+        "theme": "input",
+        "weight": 3
+      },
+      {
+        "theme": "learner",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "انجام درست کارها اهمیت بسیار زیادی دارد.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "discipline",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "برنده شدن اهمیت بسیار زیادی دارد.",
+    "themes": [
+      {
+        "theme": "competition",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 3
+      },
+      {
+        "theme": "achiever",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "زندگی‌ام توسط خودم هدایت می‌شود.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 2
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "فلسفه من زندگی‌ام را هدایت می‌کند.",
+    "themes": [
+      {
+        "theme": "belief",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 2
+      },
+      {
+        "theme": "connectedness",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "دوست دارم با دیگران باشم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "relator",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "حداقل هفته‌ای پنج ساعت یا بیشتر به تنهایی وقت می‌گذرانم تا فکر کنم.",
+    "themes": [
+      {
+        "theme": "intellection",
+        "weight": 3
+      },
+      {
+        "theme": "ideation",
+        "weight": 2
+      },
+      {
+        "theme": "input",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "ضعف‌های خودم را بهتر از نقاط قوتم می‌شناسم.",
+    "themes": [
+      {
+        "theme": "restorative",
+        "weight": 3
+      },
+      {
+        "theme": "deliberative",
+        "weight": 3
+      },
+      {
+        "theme": "intellection",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "text": "نقاط قوت خودم را بهتر از ضعف‌هایم می‌شناسم.",
+    "themes": [
+      {
+        "theme": "maximizer",
+        "weight": 3
+      },
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "individualization",
+        "weight": 2
+      }
+    ]
+  }
+],
+[
+  {
+    "text": "عاشق مردم هستم.",
+    "themes": [
+      {
+        "theme": "woo",
+        "weight": 3
+      },
+      {
+        "theme": "positivity",
+        "weight": 3
+      },
+      {
+        "theme": "includer",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "text": "واقعاً برایم مهم نیست که آیا مردم دوستم دارند یا نه.",
+    "themes": [
+      {
+        "theme": "self_assurance",
+        "weight": 3
+      },
+      {
+        "theme": "command",
+        "weight": 3
+      },
+      {
+        "theme": "significance",
+        "weight": 2
+      }
+    ]
+  }
+]
+]

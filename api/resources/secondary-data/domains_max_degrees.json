@@ -1,0 +1,16 @@
+{
+  "domains": {
+    "executing": {
+        "maxDegree": 1478
+    },
+    "influencing": {
+        "maxDegree": 1234
+    },
+    "relationship_building": {
+        "maxDegree": 1144
+    },
+    "strategic_thinking": {
+        "maxDegree": 1274
+    }
+  }
+}

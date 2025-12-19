@@ -1,0 +1,48 @@
+{
+    "themes": {
+      "restorative": {
+        "onDominanceDescription": "",
+        "dominanceSupportingDetails": "",
+        "positiveIdentifiers": [],
+        "negativeIdentifiers": [],
+        "howThemeHelpsYou": [],
+        "behavioralProfile": {
+          "pressure": "",
+          "decisionMaking": "",
+          "learning": "",
+          "motivation": ""
+        },
+        "workplace": {
+          "strengths": [
+            {
+              "title": "",
+              "description": ""
+            }
+          ],
+          "weaknesses": [
+            {
+              "title": "",
+              "description": ""
+            }
+          ]
+        },
+        "improvementMethods": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ],
+        "books": [
+          {
+            "bookTitle": "",
+            "bookAuthor": "",
+            "description": ""
+          }
+        ],
+        "onWeaknessDescription": "",
+        "onWeaknessObstacles": [],
+        "onWeaknessOpportunities": []
+      }
+    }
+  }
+  

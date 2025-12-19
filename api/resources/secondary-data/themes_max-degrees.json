@@ -1,0 +1,106 @@
+
+{
+    "significance": {
+      "maxDegree": 212
+    },
+    "maximizer": {
+      "maxDegree": 196
+    },
+    "self_assurance": {
+      "maxDegree": 198
+    },
+    "woo": {
+      "maxDegree": 152
+    },
+    "positivity": {
+      "maxDegree": 214
+    },
+    "harmony": {
+      "maxDegree": 132
+    },
+    "context": {
+      "maxDegree": 52
+    },
+    "input": {
+      "maxDegree": 194
+    },
+    "intellection": {
+      "maxDegree": 318
+    },
+    "futuristic": {
+      "maxDegree": 94
+    },
+    "ideation": {
+      "maxDegree": 140
+    },
+    "strategic": {
+      "maxDegree": 106
+    },
+    "learner": {
+      "maxDegree": 142
+    },
+    "competition": {
+      "maxDegree": 88
+    },
+    "achiever": {
+      "maxDegree": 236
+    },
+    "discipline": {
+      "maxDegree": 228
+    },
+    "deliberative": {
+      "maxDegree": 260
+    },
+    "focus": {
+      "maxDegree": 176
+    },
+    "responsibility": {
+      "maxDegree": 152
+    },
+    "belief": {
+      "maxDegree": 186
+    },
+    "restorative": {
+      "maxDegree": 82
+    },
+    "developer": {
+      "maxDegree": 112
+    },
+    "analytical": {
+      "maxDegree": 228
+    },
+    "individualization": {
+      "maxDegree": 112
+    },
+    "empathy": {
+      "maxDegree": 96
+    },
+    "relator": {
+      "maxDegree": 140
+    },
+    "includer": {
+      "maxDegree": 112
+    },
+    "activator": {
+      "maxDegree": 116
+    },
+    "communication": {
+      "maxDegree": 158
+    },
+    "connectedness": {
+      "maxDegree": 102
+    },
+    "command": {
+      "maxDegree": 114
+    },
+    "arranger": {
+      "maxDegree": 76
+    },
+    "consistency": {
+      "maxDegree": 82
+    },
+    "adaptability": {
+      "maxDegree": 124
+    }
+  }
+

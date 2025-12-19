@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.env/
+.env*/
+ENV/
+env/
+.venv/
+
+# Ignore everything inside venvs
+**/venv/**
+**/.venv/**
+**/env/**
+**/.env/**
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+questions/
+Scripts/
+Lib/
+include/
+pyvenv.cfg
